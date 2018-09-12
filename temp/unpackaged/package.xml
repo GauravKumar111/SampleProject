@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>SampleProject</fullName>
+    <types>
+        <members>Contact.EmailType__c</members>
+        <members>Contact.Salary__c</members>
+        <members>DuplicateRecordSet.Email__c</members>
+        <members>DuplicateRecordSet.Phone__c</members>
+        <name>CustomField</name>
+    </types>
+    <version>43.0</version>
+</Package>

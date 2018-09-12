@@ -1,0 +1,403 @@
+[
+    [
+        "C:\\Users\\AL2042\\SampleProject\\force-app",
+        {
+            "sourcePath": "C:\\Users\\AL2042\\SampleProject\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1536756972809,
+            "changeTime": 1536756972809,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\AL2042\\SampleProject\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\AL2042\\SampleProject\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1536756972809,
+            "changeTime": 1536756972809,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2042\\SampleProject\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\AL2042\\SampleProject\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1536758651917,
+            "changeTime": 1536758651917,
+            "contentHash": "b2e413674f98340eeb6ab60f83200a9c2d0faefb"
+        }
+    ],
+    [
+        "C:\\Users\\AL2042\\SampleProject\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\AL2042\\SampleProject\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1536756972809,
+            "changeTime": 1536756972809,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2042\\SampleProject\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\AL2042\\SampleProject\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1536758651773,
+            "changeTime": 1536758651773,
+            "contentHash": "3b93e38aab3058bfe101999b445ab8eb2ffce2ad"
+        }
+    ],
+    [
+        "C:\\Users\\AL2042\\SampleProject\\force-app\\main\\default\\objects\\Contact",
+        {
+            "sourcePath": "C:\\Users\\AL2042\\SampleProject\\force-app\\main\\default\\objects\\Contact",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1536758234624,
+            "changeTime": 1536758234624,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2042\\SampleProject\\force-app\\main\\default\\objects\\Contact\\fields",
+        {
+            "sourcePath": "C:\\Users\\AL2042\\SampleProject\\force-app\\main\\default\\objects\\Contact\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1536758234624,
+            "changeTime": 1536758234624,
+            "contentHash": "6149e5db5bf6ca39bd8def476d01265e5ff8e6c7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2042\\SampleProject\\force-app\\main\\default\\objects\\Contact\\fields\\EmailType__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\AL2042\\SampleProject\\force-app\\main\\default\\objects\\Contact\\fields\\EmailType__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 346,
+            "modifiedTime": 1536758234624,
+            "changeTime": 1536758234624,
+            "contentHash": "383a9bbf3648540749fa675547ec7fcfbfe616a5",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2042\\SampleProject\\force-app\\main\\default\\objects\\Contact\\fields\\Salary__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\AL2042\\SampleProject\\force-app\\main\\default\\objects\\Contact\\fields\\Salary__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 470,
+            "modifiedTime": 1536758234640,
+            "changeTime": 1536758234640,
+            "contentHash": "473fbade1e7cdd6fd1022bb533fc0ff409ff4a7f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2042\\SampleProject\\force-app\\main\\default\\objects\\DuplicateRecordSet",
+        {
+            "sourcePath": "C:\\Users\\AL2042\\SampleProject\\force-app\\main\\default\\objects\\DuplicateRecordSet",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1536758234640,
+            "changeTime": 1536758234640,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2042\\SampleProject\\force-app\\main\\default\\objects\\DuplicateRecordSet\\fields",
+        {
+            "sourcePath": "C:\\Users\\AL2042\\SampleProject\\force-app\\main\\default\\objects\\DuplicateRecordSet\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1536758234640,
+            "changeTime": 1536758234640,
+            "contentHash": "8143ce9a688f033624c8b29f5675c61407d0c940",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2042\\SampleProject\\force-app\\main\\default\\objects\\DuplicateRecordSet\\fields\\Email__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\AL2042\\SampleProject\\force-app\\main\\default\\objects\\DuplicateRecordSet\\fields\\Email__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 291,
+            "modifiedTime": 1536758234640,
+            "changeTime": 1536758234640,
+            "contentHash": "77586d494f8108dbb67bce4ee159d541ff959033",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2042\\SampleProject\\force-app\\main\\default\\objects\\DuplicateRecordSet\\fields\\Phone__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\AL2042\\SampleProject\\force-app\\main\\default\\objects\\DuplicateRecordSet\\fields\\Phone__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 264,
+            "modifiedTime": 1536758234640,
+            "changeTime": 1536758234640,
+            "contentHash": "e4b132abe0188bc852e02dd6ff8367039e87e681",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2042\\SampleProject",
+        {
+            "sourcePath": "C:\\Users\\AL2042\\SampleProject",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1536758029268,
+            "changeTime": 1536758029268,
+            "contentHash": "92ca9faf268bdc3bc4fdfed474395961a41825c6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2042\\SampleProject\\force-app\\main\\default\\objects\\Account\\fields\\QuickRating__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\AL2042\\SampleProject\\force-app\\main\\default\\objects\\Account\\fields\\QuickRating__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 402,
+            "modifiedTime": 1536758651773,
+            "changeTime": 1536758651773,
+            "contentHash": "b8de061a076968f749a1de5125d2358b95fc1638"
+        }
+    ],
+    [
+        "C:\\Users\\AL2042\\SampleProject\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\AL2042\\SampleProject\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9633,
+            "modifiedTime": 1536758651773,
+            "changeTime": 1536758651773,
+            "contentHash": "37d078bc3e839c9aa9e453992065a412519be415"
+        }
+    ],
+    [
+        "C:\\Users\\AL2042\\SampleProject\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\AL2042\\SampleProject\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9633,
+            "modifiedTime": 1536758651796,
+            "changeTime": 1536758651796,
+            "contentHash": "0bc0cec85be8faf88a859719774b1b29b8392b04"
+        }
+    ],
+    [
+        "C:\\Users\\AL2042\\SampleProject\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\AL2042\\SampleProject\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9585,
+            "modifiedTime": 1536758651820,
+            "changeTime": 1536758651820,
+            "contentHash": "c912a486902e0f0c4ef538f0990cbbd5f364d813"
+        }
+    ],
+    [
+        "C:\\Users\\AL2042\\SampleProject\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\AL2042\\SampleProject\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9585,
+            "modifiedTime": 1536758651824,
+            "changeTime": 1536758651824,
+            "contentHash": "92297a56fb9bbac1083ed727ef296fa24cebfe32"
+        }
+    ],
+    [
+        "C:\\Users\\AL2042\\SampleProject\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\AL2042\\SampleProject\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4480,
+            "modifiedTime": 1536758651824,
+            "changeTime": 1536758651824,
+            "contentHash": "60c4ff7e58bb2b9057c3a39fc48487eb0aa784ef"
+        }
+    ],
+    [
+        "C:\\Users\\AL2042\\SampleProject\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\AL2042\\SampleProject\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4816,
+            "modifiedTime": 1536758651824,
+            "changeTime": 1536758651824,
+            "contentHash": "c793439dca64c0b6fa4083ecedbed185be7684e9"
+        }
+    ],
+    [
+        "C:\\Users\\AL2042\\SampleProject\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\AL2042\\SampleProject\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4476,
+            "modifiedTime": 1536758651902,
+            "changeTime": 1536758651902,
+            "contentHash": "890d3e2567a0d51f03495fcdffa28a030985a8fc"
+        }
+    ],
+    [
+        "C:\\Users\\AL2042\\SampleProject\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\AL2042\\SampleProject\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17881,
+            "modifiedTime": 1536758651917,
+            "changeTime": 1536758651917,
+            "contentHash": "779e3af918fd16d3fe59aebb0eb60eab47c8d663"
+        }
+    ],
+    [
+        "C:\\Users\\AL2042\\SampleProject\\force-app\\main\\default\\permissionsets\\SampleProject.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\AL2042\\SampleProject\\force-app\\main\\default\\permissionsets\\SampleProject.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 373,
+            "modifiedTime": 1536758651917,
+            "changeTime": 1536758651917,
+            "contentHash": "d3166780d095895404129d776d6fc1aeec235039"
+        }
+    ],
+    [
+        "C:\\Users\\AL2042\\SampleProject\\force-app\\main\\default\\objects\\Account\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\AL2042\\SampleProject\\force-app\\main\\default\\objects\\Account\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1536758651773,
+            "changeTime": 1536758651773,
+            "contentHash": "a847a23c9999a7cf3d7c55e8cf3644954ebb8b15"
+        }
+    ],
+    [
+        "C:\\Users\\AL2042\\SampleProject\\force-app\\main\\default\\objects\\Account",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\AL2042\\SampleProject\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1536758651773,
+            "changeTime": 1536758651773,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "C:\\Users\\AL2042\\SampleProject\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\AL2042\\SampleProject\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1536758651824,
+            "changeTime": 1536758651824,
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0"
+        }
+    ],
+    [
+        "C:\\Users\\AL2042\\SampleProject\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\AL2042\\SampleProject\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1536758651917,
+            "changeTime": 1536758651917,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ],
+    [
+        "C:\\Users\\AL2042\\SampleProject\\force-app\\main\\default\\permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\AL2042\\SampleProject\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1536758651917,
+            "changeTime": 1536758651917,
+            "contentHash": "7cd9697fa0f777a63b66eb7657d16a73a3585f08"
+        }
+    ]
+]
